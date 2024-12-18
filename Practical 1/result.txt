@@ -1,0 +1,5 @@
+ Sum of 5 and 3 is: 8
+ Subtraction of 10 and 5 is: 5
+ Product 
+of 5 and 3 is: 15
+ Divsion of 10 and 2 is: 5 
